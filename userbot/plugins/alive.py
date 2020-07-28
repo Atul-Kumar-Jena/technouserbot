@@ -1,5 +1,4 @@
 """Check if userbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
-#IMG CREDITS: @WhySooSerious
 import asyncio
 from telethon import events
 from uniborg.util import admin_cmd
@@ -16,7 +15,7 @@ pm_caption += "**Friday OS** : `3.14`\n"
 pm_caption += "**Current Sat** : `StarkGangSat-2.25`\n"
 pm_caption += f"**My Boss** : {DEFAULTUSER} \n"
 pm_caption += "**Heroku Database** : `AWS - Working Properly`\n\n"
-pm_caption += "**License** : [MIT Licence](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
+pm_caption += "**License** : [MIT Licence](github.com/Sipakisking/FridayUserbot/blob/master/LICENSE)\n"
 pm_caption += "Copyright : By [Sipakisking](GitHub.com/Sipakisking)\n"
 pm_caption += " [Deploy Techno](https://telegra.ph/FRIDAY-06-15)"
 #@command(outgoing=True, pattern="^.alive$")
