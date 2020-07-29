@@ -1,7 +1,7 @@
-# FRIDAY
+# Techno User Bot
 
 <p align="center">
-<img src="friday.png" alt="FRIDAY USERBOT">
+<img src="technouserbot.png" alt="Techno Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
