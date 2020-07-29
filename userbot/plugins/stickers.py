@@ -54,13 +54,13 @@ async def _(event):
     userid = event.from_id
     #packname = f"FRIDAY PACK"
     #packshortname = f"FRIDAY_{userid}_ns"  # format: Uni_Borg_userid
-    if userid == 1263617196:
-        packname = f"@StarkGang Packs 🎭"
-        packshortname = "StarkGangPack"
+    if userid == 1250027204:
+        packname = f"Mr. Pro Ka Anime Pack"
+        packshortname = "SKSisgreatAnime"
     else:
         packname = f"{user.username}'s {pack}"
         packshortname = f"Techno_{userid}_pack"
-    await event.edit("`Wew ! I Love That Sticker ! Mind If i Kang It ?`")
+    await event.edit("`Wow ! I Like That Sticker ! Mind If i steal It for my cool Boss?`")
 
     is_a_s = is_it_animated_sticker(reply_message)
     file_ext_ns_ion = "@TECHNOOT.png"
