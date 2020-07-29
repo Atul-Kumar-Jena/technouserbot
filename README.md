@@ -1,7 +1,7 @@
 # Techno User Bot
 
 <p align="center">
-<img src="technouserbot.png" alt="Techno Userbot">
+<img src="Technouserbot.png" alt="Techno Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
